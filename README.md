@@ -1,5 +1,5 @@
 # camunda-microservice
-Simple spring boot application to understand Camunda as micro services
+Simple spring boot application to understand and demonstrate Camunda as micro services.
 
 
 Process Defination
